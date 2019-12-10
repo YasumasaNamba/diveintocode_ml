@@ -1,3 +1,8 @@
 hello
 
+<<<<<<< HEAD
 This is at master branch
+=======
+
+file modified at test branch
+>>>>>>> test
